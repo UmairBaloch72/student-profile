@@ -1,0 +1,4 @@
+Name: Umair Ahmed
+Student ID: 22SE18
+Bio: I am learning Git and GitHub!
+Generated: 2025-05-21 20:58:09
